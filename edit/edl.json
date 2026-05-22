@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "sources": {
+    "videomanon": "/home/user/montageadwise/videomanon.mp4"
+  },
+  "ranges": [
+    {"source": "videomanon", "start": 0.000, "end": 6.805, "beat": "INTRO", "note": "talking head, hook"},
+    {"source": "videomanon", "start": 7.336, "end": 9.250, "beat": "TALK", "note": "after silence cut"},
+    {"source": "videomanon", "start": 9.636, "end": 11.753, "beat": "TALK", "note": "after silence cut"},
+    {"source": "videomanon", "start": 12.414, "end": 14.047, "beat": "TALK", "note": "after silence cut"},
+    {"source": "videomanon", "start": 14.508, "end": 28.275, "beat": "CARDS", "note": "4 text cards section - kept intact"},
+    {"source": "videomanon", "start": 28.500, "end": 33.230, "beat": "TALK", "note": "after silence cut"},
+    {"source": "videomanon", "start": 33.411, "end": 34.291, "beat": "OUTRO", "note": "trailing silence trimmed"}
+  ],
+  "grade": "none",
+  "overlays": [
+    {"file": "animations/slot_1_intro/render.mov", "start_in_output": 0.0, "duration": 3.6},
+    {"file": "animations/slot_2_outro/render.mov", "start_in_output": 28.65, "duration": 3.4}
+  ],
+  "total_duration_s": 31.85
+}

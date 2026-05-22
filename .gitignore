@@ -1,0 +1,21 @@
+# HyperFrames dependencies (reinstall with: npm install)
+edit/animations/*/node_modules/
+
+# Render intermediates — regenerable from edl.json via video-use render.py
+edit/base*.mp4
+edit/*.prenorm.mp4
+edit/preview*.mp4
+edit/clips_graded/
+edit/clips_preview/
+edit/clips_draft/
+edit/_concat.txt
+edit/transcripts/
+
+# Large ProRes/WebM overlay renders — regenerable from each slot's index.html
+edit/animations/*/render.mov
+edit/animations/*/render.webm
+edit/animations/*/renders/
+edit/animations/*/.hyperframes/
+
+# Debug / verification artifacts
+edit/verify/
