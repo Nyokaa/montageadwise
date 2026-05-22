@@ -11,11 +11,8 @@ _concat.txt
 edl_draft.json
 verify/
 
-# Animation build artifacts (HyperFrames scaffolding, node_modules, draft renders)
-animations/*/node_modules/
-animations/*/.hyperframes/
-animations/*/dist/
-animations/**/*.webm
+# Animation build artifacts (HyperFrames scaffolding, vendored libs, renders)
+animations/
 
 # Transcription temp
 *.wav
