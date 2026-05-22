@@ -32,3 +32,23 @@ QUESTION → RAISON 1 → RAISON 2 → LEÇON. Habillage HyperFrames « coloré 
   (le .mov fait 8,8s, l'overlay gèle la dernière frame).
 
 **Outstanding:** aucun. Livrable : edit/final.mp4 (1080×1920, 38,9s, -14 LUFS).
+
+## Session 2 — 2026-05-22
+
+**Strategy:** Refonte de la direction artistique des overlays d'après une
+référence client : DA « tech-HUD » sombre — accent cyan #1ECBD8, fond navy
+#0B0F14, typo Inter bold (fini Anton/dégradés/lime/magenta), cadres à coins
+type viseur, chips d'étiquette cyan pleins. Correction d'un défaut de timing.
+
+**Decisions:**
+- 5 overlays restylés : cartes navy translucides, cadre cyan 2px + corner
+  brackets, chips cyan à texte navy, texte blanc Inter aligné à gauche.
+- Comparatif (slot 5) : côté « non réplicable » cyan, côté « réplicable »
+  rouge atténué #C2453F.
+- Timing : chaque overlay retardé de +0,6s (apparaissait <1s trop tôt).
+
+**Reasoning log:**
+- Timeline d'animation des overlays inchangée ; le recalage se fait
+  uniquement via `start_in_output` dans l'EDL (+0,6s par overlay).
+
+**Outstanding:** aucun. Livrable : edit/final.mp4 (1080×1920, 38,9s, -14 LUFS).
