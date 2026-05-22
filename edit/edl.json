@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "sources": {
+    "louisinsta": "/home/user/montageadwise/louisinsta.mp4"
+  },
+  "ranges": [
+    {"source": "louisinsta", "start": 1.10, "end": 9.48,
+     "beat": "HOOK+STORY",
+     "quote": "Je viens de signer un client a plus de mille six cents euros par mois ... il a juste vu passer deux de mes contenus sur Instagram, il a reserve un rendez-vous",
+     "reason": "Opening hook + setup. Ends on word boundary after 'rendez-vous' (9.38)."},
+    {"source": "louisinsta", "start": 9.64, "end": 11.62,
+     "beat": "STORY-PAYMENT",
+     "quote": "et aujourd'hui, je viens de recevoir son paiement.",
+     "reason": "Gap after 'rendez-vous' tightened 0.42s -> 0.16s. Ends after 'paiement.' before the false start."},
+    {"source": "louisinsta", "start": 14.62, "end": 18.87,
+     "beat": "QUESTION",
+     "quote": "quand je lui ai demande : Pourquoi il est parti avec nous plutot qu'avec une autre agence ? Il m'a repondu deux choses.",
+     "reason": "Skips the repeated/false-start question (11.80-14.70). Keeps the cleaner, complete reformulation."},
+    {"source": "louisinsta", "start": 19.04, "end": 34.05,
+     "beat": "REASONS",
+     "quote": "De un, l'authenticite ... Et de deux, la preuve sociale ... ton premier element de differenciation,",
+     "reason": "Gap after 'choses.' tightened 0.42s -> 0.16s. Both reasons + lead into the takeaway."},
+    {"source": "louisinsta", "start": 34.20, "end": 43.24,
+     "beat": "TAKEAWAY",
+     "quote": "c'est ta preuve sociale. Personne ne pourra repliquer les resultats ... tout le monde peut le repliquer.",
+     "reason": "Gap after 'differenciation,' tightened 0.40s -> 0.16s. Final lesson to last word."}
+  ],
+  "grade": "scale=1080:1920:flags=lanczos,eq=contrast=1.06:saturation=1.06:brightness=0.012",
+  "overlays": [
+    {"file": "animations/slot_1/render.webm", "start_in_output": 0.90, "duration": 4.30},
+    {"file": "animations/slot_2/render.webm", "start_in_output": 5.60, "duration": 3.20},
+    {"file": "animations/slot_3/render.webm", "start_in_output": 14.50, "duration": 4.00},
+    {"file": "animations/slot_4/render.webm", "start_in_output": 20.20, "duration": 4.00},
+    {"file": "animations/slot_5/render.webm", "start_in_output": 29.80, "duration": 8.80}
+  ],
+  "subtitles": "edit/master.srt",
+  "total_duration_s": 38.66
+}

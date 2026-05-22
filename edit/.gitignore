@@ -1,0 +1,21 @@
+# Regenerable render intermediates — not worth versioning
+clips_graded/
+clips_preview/
+clips_draft/
+base.mp4
+base_preview.mp4
+base_draft.mp4
+preview.mp4
+*.prenorm.mp4
+_concat.txt
+edl_draft.json
+verify/
+
+# Animation build artifacts (HyperFrames scaffolding, node_modules, draft renders)
+animations/*/node_modules/
+animations/*/.hyperframes/
+animations/*/dist/
+animations/**/*.webm
+
+# Transcription temp
+*.wav
