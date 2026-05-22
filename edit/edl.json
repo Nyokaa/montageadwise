@@ -49,27 +49,27 @@
   "overlays": [
     {
       "file": "animations/slot_1/render.mov",
-      "start_in_output": 0.9,
+      "start_in_output": 1.5,
       "duration": 4.3
     },
     {
       "file": "animations/slot_2/render.mov",
-      "start_in_output": 5.6,
+      "start_in_output": 6.2,
       "duration": 3.2
     },
     {
       "file": "animations/slot_3/render.mov",
-      "start_in_output": 14.5,
+      "start_in_output": 15.1,
       "duration": 4.0
     },
     {
       "file": "animations/slot_4/render.mov",
-      "start_in_output": 20.2,
+      "start_in_output": 20.8,
       "duration": 4.0
     },
     {
       "file": "animations/slot_5/render.mov",
-      "start_in_output": 29.8,
+      "start_in_output": 30.4,
       "duration": 9.2
     }
   ],
