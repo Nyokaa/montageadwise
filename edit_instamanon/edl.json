@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sources": {
+    "instamanon": "/home/user/montageadwise/instamanon.mp4"
+  },
+  "ranges": [
+    {"source": "instamanon", "start": 0.00, "end": 5.95,
+     "beat": "HOOK",
+     "quote": "Tu connais le proverbe il faut souffrir pour etre belle. Eh ben je vais te dire un truc mais on n'est plus dans les annees 1800.",
+     "reason": "Acte 1, ouverture. Fin sur '1800.' (~5.80) + 0.15 pad."},
+    {"source": "instamanon", "start": 6.16, "end": 42.40,
+     "beat": "MANIFESTO+CTA",
+     "quote": "Avant, on banalisait la douleur ... 3 symptomes ... La beaute ne devrait jamais se faire dans la douleur. Est-ce que toi aussi ... pendant une pose d'ongle?",
+     "reason": "Acte 2 pitch educatif + question CTA. Lead-in 0.20s avant 'Avant'. Inter-actes resserre 0.56 -> 0.35s."}
+  ],
+  "grade": "scale=1080:1920:flags=lanczos,eq=contrast=1.04:saturation=1.06:gamma=1.02",
+  "overlays": [
+    {"file": "animations/slot_1/render.mov", "start_in_output": 0.80, "duration": 4.70},
+    {"file": "animations/slot_2/render.mov", "start_in_output": 6.00, "duration": 6.50},
+    {"file": "animations/slot_3/render.mov", "start_in_output": 13.00, "duration": 9.00},
+    {"file": "animations/slot_4/render.mov", "start_in_output": 32.50, "duration": 9.50}
+  ],
+  "subtitles": "master.srt",
+  "total_duration_s": 42.19
+}
