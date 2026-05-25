@@ -66,3 +66,25 @@ pas couverte.
 
 **Outstanding:** option à proposer si demandé — réduire la taille de
 « NORMAL ? » dans le slot 5 pour qu'il ne déborde pas.
+
+## Session 3 — 2026-05-25
+
+**Strategy:** Retour aux fenêtres d'overlay v1 (face visible aux moments
+naturels), overlays full-screen opaques v2 conservés.
+
+**Decisions:**
+- 4 overlays au lieu de 5 : suppression du slot principe (22–32,5s) → face
+  visible pendant cette section.
+- Fenêtres restaurées : slot 1 (0,8–5,5s), slot 2 (6,0–12,5s), slot 3
+  (13,0–22,0s), slot 5 (32,5–42,0s).
+- Face visible : 0–0,8s + 5,5–6,0s + 12,5–13,0s + 22,0–32,5s + 42,0–42,19s
+  (~12,5s total sur 42,19s).
+- Sous-titres remontés à MarginV 110 (le slot principe ne déborde plus dans
+  cette zone, donc plus de collision).
+
+**Reasoning log:**
+- Les .mov v2 sont un peu plus longs que les fenêtres v1 (slot 1 mov 5,93s
+  pour fenêtre 4,70s) — la fin de l'animation (hold idle) est coupée par
+  `enable`, sans impact sur les reveals/slams qui se produisent plus tôt.
+
+**Outstanding:** aucun.

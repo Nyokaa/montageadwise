@@ -25,13 +25,13 @@
   "overlays": [
     {
       "file": "animations/slot_1/render.mov",
-      "start_in_output": 0.0,
-      "duration": 5.95
+      "start_in_output": 0.8,
+      "duration": 4.7
     },
     {
       "file": "animations/slot_2/render.mov",
-      "start_in_output": 5.95,
-      "duration": 7.05
+      "start_in_output": 6.0,
+      "duration": 6.5
     },
     {
       "file": "animations/slot_3/render.mov",
@@ -39,14 +39,9 @@
       "duration": 9.0
     },
     {
-      "file": "animations/slot_4/render.mov",
-      "start_in_output": 22.0,
-      "duration": 10.5
-    },
-    {
       "file": "animations/slot_5/render.mov",
       "start_in_output": 32.5,
-      "duration": 9.69
+      "duration": 9.5
     }
   ],
   "subtitles": "master.srt",
