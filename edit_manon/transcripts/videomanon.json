@@ -1,0 +1,1008 @@
+{
+  "language_code": "fr",
+  "language_probability": 1,
+  "text": "Attends, mais t 'es Manon, la prothésiste angulaire ? Ouais, c 'est moi tout à fait. Mais qu 'est -ce que tu fais ? Eh ben, je suis en train de monter un truc de dingue. Viens, je te montre. Bon, maintenant montre -moi ce truc de dingue. T 'es perdu sur ce que tu veux réellement pour tes ongles ? Bon, attends, regarde ce que je vais t 'offrir. Ce que je te propose, c 'est un diagnostic personnalisé offert. On va regarder ton historique de prestation, tes observations sur les ongles naturels, tes facteurs pouvant influencer la tenue, tes habitudes et le résultat souhaité. Et c 'est gratuit ? Bien sûr que c 'est gratuit. Là, je te le propose gratuitement, alors clique sur le lien, il ne reste plus beaucoup de place pour ce mois -ci, et réserve ton créneau.",
+  "words": [
+    {
+      "type": "word",
+      "text": "Attends,",
+      "start": 0.0,
+      "end": 0.26,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "mais",
+      "start": 0.56,
+      "end": 0.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "t",
+      "start": 0.56,
+      "end": 0.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "'es",
+      "start": 0.86,
+      "end": 1.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Manon,",
+      "start": 1.0,
+      "end": 1.16,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "la",
+      "start": 1.24,
+      "end": 1.38,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "prothésiste",
+      "start": 1.38,
+      "end": 1.7,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "angulaire",
+      "start": 1.7,
+      "end": 2.04,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "?",
+      "start": 2.04,
+      "end": 2.12,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Ouais,",
+      "start": 2.12,
+      "end": 2.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "c",
+      "start": 2.3,
+      "end": 2.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "'est",
+      "start": 2.36,
+      "end": 2.38,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "moi",
+      "start": 2.38,
+      "end": 2.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "tout",
+      "start": 2.52,
+      "end": 2.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "à",
+      "start": 2.72,
+      "end": 2.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "fait.",
+      "start": 2.78,
+      "end": 2.92,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Mais",
+      "start": 3.08,
+      "end": 3.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "qu",
+      "start": 3.2,
+      "end": 3.28,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "'est",
+      "start": 3.28,
+      "end": 3.38,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "-ce",
+      "start": 3.38,
+      "end": 3.38,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "que",
+      "start": 3.38,
+      "end": 3.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "tu",
+      "start": 3.5,
+      "end": 3.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "fais",
+      "start": 3.54,
+      "end": 3.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "?",
+      "start": 3.72,
+      "end": 3.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Eh",
+      "start": 3.96,
+      "end": 4.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "ben,",
+      "start": 4.22,
+      "end": 4.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "je",
+      "start": 4.66,
+      "end": 4.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "suis",
+      "start": 4.76,
+      "end": 4.88,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "en",
+      "start": 4.88,
+      "end": 5.02,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "train",
+      "start": 5.02,
+      "end": 5.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "de",
+      "start": 5.1,
+      "end": 5.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "monter",
+      "start": 5.18,
+      "end": 5.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "un",
+      "start": 5.36,
+      "end": 5.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "truc",
+      "start": 5.5,
+      "end": 5.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "de",
+      "start": 5.6,
+      "end": 5.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "dingue.",
+      "start": 5.8,
+      "end": 6.04,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Viens,",
+      "start": 6.18,
+      "end": 6.3,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "je",
+      "start": 6.3,
+      "end": 6.42,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "te",
+      "start": 6.42,
+      "end": 6.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "montre.",
+      "start": 6.52,
+      "end": 6.76,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Bon,",
+      "start": 7.42,
+      "end": 7.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "maintenant",
+      "start": 7.78,
+      "end": 7.94,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "montre",
+      "start": 7.94,
+      "end": 8.3,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "-moi",
+      "start": 8.3,
+      "end": 8.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "ce",
+      "start": 8.5,
+      "end": 8.66,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "truc",
+      "start": 8.66,
+      "end": 8.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "de",
+      "start": 8.8,
+      "end": 8.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "dingue.",
+      "start": 8.98,
+      "end": 9.34,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "T",
+      "start": 9.68,
+      "end": 9.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "'es",
+      "start": 9.78,
+      "end": 9.92,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "perdu",
+      "start": 9.92,
+      "end": 10.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "sur",
+      "start": 10.14,
+      "end": 10.3,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "ce",
+      "start": 10.3,
+      "end": 10.42,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "que",
+      "start": 10.42,
+      "end": 10.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "tu",
+      "start": 10.5,
+      "end": 10.64,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "veux",
+      "start": 10.64,
+      "end": 10.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "réellement",
+      "start": 10.8,
+      "end": 11.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "pour",
+      "start": 11.14,
+      "end": 11.34,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "tes",
+      "start": 11.34,
+      "end": 11.46,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "ongles",
+      "start": 11.46,
+      "end": 12.38,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "?",
+      "start": 12.38,
+      "end": 12.52,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Bon,",
+      "start": 12.52,
+      "end": 12.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "attends,",
+      "start": 12.9,
+      "end": 13.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "regarde",
+      "start": 13.24,
+      "end": 13.38,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "ce",
+      "start": 13.38,
+      "end": 13.5,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "que",
+      "start": 13.5,
+      "end": 13.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "je",
+      "start": 13.56,
+      "end": 13.64,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "vais",
+      "start": 13.64,
+      "end": 13.7,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "t",
+      "start": 13.7,
+      "end": 13.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "'offrir.",
+      "start": 13.8,
+      "end": 14.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Ce",
+      "start": 14.56,
+      "end": 14.68,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "que",
+      "start": 14.68,
+      "end": 14.78,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "je",
+      "start": 14.78,
+      "end": 14.88,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "te",
+      "start": 14.88,
+      "end": 15.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "propose,",
+      "start": 15.06,
+      "end": 15.28,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "c",
+      "start": 15.32,
+      "end": 15.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "'est",
+      "start": 15.44,
+      "end": 15.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "un",
+      "start": 15.44,
+      "end": 15.66,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "diagnostic",
+      "start": 15.66,
+      "end": 16.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "personnalisé",
+      "start": 16.06,
+      "end": 16.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "offert.",
+      "start": 16.86,
+      "end": 17.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "On",
+      "start": 17.44,
+      "end": 17.54,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "va",
+      "start": 17.54,
+      "end": 17.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "regarder",
+      "start": 17.72,
+      "end": 18.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "ton",
+      "start": 18.2,
+      "end": 18.64,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "historique",
+      "start": 18.64,
+      "end": 19.04,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "de",
+      "start": 19.04,
+      "end": 19.26,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "prestation,",
+      "start": 19.26,
+      "end": 19.7,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "tes",
+      "start": 19.92,
+      "end": 20.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "observations",
+      "start": 20.14,
+      "end": 20.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "sur",
+      "start": 20.6,
+      "end": 21.04,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "les",
+      "start": 21.04,
+      "end": 21.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "ongles",
+      "start": 21.2,
+      "end": 21.48,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "naturels,",
+      "start": 21.48,
+      "end": 22.06,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "tes",
+      "start": 22.28,
+      "end": 22.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "facteurs",
+      "start": 22.44,
+      "end": 22.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "pouvant",
+      "start": 22.84,
+      "end": 23.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "influencer",
+      "start": 23.14,
+      "end": 23.66,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "la",
+      "start": 23.66,
+      "end": 23.9,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "tenue,",
+      "start": 23.9,
+      "end": 24.14,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "tes",
+      "start": 24.42,
+      "end": 24.58,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "habitudes",
+      "start": 24.58,
+      "end": 25.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "et",
+      "start": 25.24,
+      "end": 25.6,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "le",
+      "start": 25.6,
+      "end": 25.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "résultat",
+      "start": 25.8,
+      "end": 26.2,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "souhaité.",
+      "start": 26.2,
+      "end": 26.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Et",
+      "start": 26.74,
+      "end": 26.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "c",
+      "start": 26.86,
+      "end": 26.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "'est",
+      "start": 26.96,
+      "end": 27.04,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "gratuit",
+      "start": 27.04,
+      "end": 27.28,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "?",
+      "start": 27.28,
+      "end": 27.38,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Bien",
+      "start": 27.38,
+      "end": 27.66,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "sûr",
+      "start": 27.66,
+      "end": 27.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "que",
+      "start": 27.8,
+      "end": 27.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "c",
+      "start": 27.86,
+      "end": 27.98,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "'est",
+      "start": 27.98,
+      "end": 28.0,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "gratuit.",
+      "start": 28.0,
+      "end": 28.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "Là,",
+      "start": 28.6,
+      "end": 28.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "je",
+      "start": 29.04,
+      "end": 29.08,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "te",
+      "start": 29.08,
+      "end": 29.24,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "le",
+      "start": 29.24,
+      "end": 29.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "propose",
+      "start": 29.44,
+      "end": 29.66,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "gratuitement,",
+      "start": 29.66,
+      "end": 30.44,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "alors",
+      "start": 30.68,
+      "end": 30.8,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "clique",
+      "start": 30.8,
+      "end": 30.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "sur",
+      "start": 30.96,
+      "end": 31.18,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "le",
+      "start": 31.18,
+      "end": 31.36,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "lien,",
+      "start": 31.36,
+      "end": 31.48,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "il",
+      "start": 31.68,
+      "end": 31.72,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "ne",
+      "start": 31.72,
+      "end": 31.84,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "reste",
+      "start": 31.84,
+      "end": 32.04,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "plus",
+      "start": 32.04,
+      "end": 32.22,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "beaucoup",
+      "start": 32.22,
+      "end": 32.4,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "de",
+      "start": 32.4,
+      "end": 32.56,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "place",
+      "start": 32.56,
+      "end": 32.64,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "pour",
+      "start": 32.64,
+      "end": 32.86,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "ce",
+      "start": 32.86,
+      "end": 32.94,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "mois",
+      "start": 32.94,
+      "end": 33.16,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "-ci,",
+      "start": 33.16,
+      "end": 33.34,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "et",
+      "start": 33.6,
+      "end": 33.7,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "réserve",
+      "start": 33.7,
+      "end": 33.96,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "ton",
+      "start": 33.96,
+      "end": 34.1,
+      "speaker_id": "speaker_0"
+    },
+    {
+      "type": "word",
+      "text": "créneau.",
+      "start": 34.1,
+      "end": 34.4,
+      "speaker_id": "speaker_0"
+    }
+  ]
+}
