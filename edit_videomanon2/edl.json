@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "sources": {
+    "videomanon2": "/home/user/montageadwise/videomanon2.mp4"
+  },
+  "ranges": [
+    {
+      "source": "videomanon2",
+      "start": 2.4,
+      "end": 9.3,
+      "beat": "HOOK",
+      "quote": "Eh attends, mais t'es Manon, prothesiste ongulaire? ... je suis specialisee dans la sante naturelle de l'ongle.",
+      "reason": "Acte 1, intro complete."
+    },
+    {
+      "source": "videomanon2",
+      "start": 26.4,
+      "end": 35.5,
+      "beat": "ESTHETIQUE+SANTE",
+      "quote": "Beaucoup de femmes vont choisir des ongles pour leur cote esthetique. Mais on peut tres bien cumuler le cote esthetique avec le cote bonne sante.",
+      "reason": "Skip director cues 9-21s, faux depart 'esth\u00e9ti...', 'Il est arriv\u00e9', begaiement 'Beaucoup de femmes' (garde la 3eme occurrence a 26.58)."
+    },
+    {
+      "source": "videomanon2",
+      "start": 48.55,
+      "end": 69.65,
+      "beat": "3-PILIERS",
+      "quote": "Et une prestation haut de gamme, c'est une prestation qui respecte la plaque naturelle de l'ongle, les habitudes de vie et meme certaines sensibilites ou habitudes du quotidien. C'est ce qui fait toute la difference.",
+      "reason": "Skip faux depart 42-48s. Bonne prise du pitch des 3 piliers + punchline."
+    },
+    {
+      "source": "videomanon2",
+      "start": 78.3,
+      "end": 89.04,
+      "beat": "DIAGNOSTIC",
+      "quote": "Chaque cliente a un diagnostic personnalise avant chaque prestation. Parce qu'aucun ongle ne devrait etre travaille de la meme maniere.",
+      "reason": "Skip version courte 72-75s. Garde la version complete."
+    },
+    {
+      "source": "videomanon2",
+      "start": 97.8,
+      "end": 100.1,
+      "beat": "OBJECTIF-LEAD",
+      "quote": "Mon objectif, ce n['est pas...]",
+      "reason": "Skip aparte 'la je vais tourner'. Debut de la phrase, suivi par R6 apres tightening du gap 3s."
+    },
+    {
+      "source": "videomanon2",
+      "start": 102.5,
+      "end": 119.11,
+      "beat": "OBJECTIF-FIN",
+      "quote": "'est pas que vos mains soient belles seulement aujourd'hui, mais qu'elles restent saines sur le long terme, et surtout qu'elles s'adaptent a votre quotidien.",
+      "reason": "Suite de la phrase apres une pause speaker de 3s tightee a 0.3s."
+    },
+    {
+      "source": "videomanon2",
+      "start": 145.8,
+      "end": 147.4,
+      "beat": "CTA-LEAD",
+      "quote": "Si vous recherchez une approche respectueuse,",
+      "reason": "Skip premier CTA + feedback director 119-145s. Take 2 propre. Pause 3s vers 'vous pouvez' tightee."
+    },
+    {
+      "source": "videomanon2",
+      "start": 150.2,
+      "end": 154.8,
+      "beat": "CTA-FIN",
+      "quote": "vous pouvez prendre contact directement via le lien juste en dessous et je vous recontacte tres rapidement.",
+      "reason": "Suite CTA take 2 apres tightening."
+    }
+  ],
+  "grade": "scale=1080:1920:flags=lanczos,eq=contrast=1.04:saturation=1.06:gamma=1.02",
+  "overlays": [
+    {
+      "file": "animations/slot_1/render.mov",
+      "start_in_output": 2.0,
+      "duration": 3.5
+    },
+    {
+      "file": "animations/slot_2/render.mov",
+      "start_in_output": 5.5,
+      "duration": 3.0
+    },
+    {
+      "file": "animations/slot_3/render.mov",
+      "start_in_output": 13.0,
+      "duration": 3.0
+    },
+    {
+      "file": "animations/slot_4/render.mov",
+      "start_in_output": 16.5,
+      "duration": 20.0
+    },
+    {
+      "file": "animations/slot_5/render.mov",
+      "start_in_output": 37.0,
+      "duration": 10.8
+    },
+    {
+      "file": "animations/slot_6/render.mov",
+      "start_in_output": 66.5,
+      "duration": 6.45
+    }
+  ],
+  "subtitles": "master.srt",
+  "total_duration_s": 72.95
+}
