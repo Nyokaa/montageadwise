@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sources": {
+    "manonads": "/home/user/montageadwise/manonads.mp4"
+  },
+  "ranges": [
+    {"source": "manonads", "start": 0.00, "end": 48.40,
+     "beat": "FULL",
+     "quote": "Pre-edited 48s pitch — hook, specialty, esthetique+sante, 3 piliers, diagnostic, objectif, CTA.",
+     "reason": "Source already cleaned by user; no internal cuts needed."}
+  ],
+  "grade": "scale=1080:1920:flags=lanczos,eq=contrast=1.04:saturation=1.06:gamma=1.02",
+  "overlays": [
+    {"file": "animations/slot_1/render.mov", "start_in_output": 0.20, "duration": 3.00},
+    {"file": "animations/slot_2/render.mov", "start_in_output": 3.20, "duration": 4.00},
+    {"file": "animations/slot_3/render.mov", "start_in_output": 7.20, "duration": 6.30},
+    {"file": "animations/slot_4/render.mov", "start_in_output": 13.50, "duration": 12.00},
+    {"file": "animations/slot_5/render.mov", "start_in_output": 25.50, "duration": 13.00},
+    {"file": "animations/slot_6/render.mov", "start_in_output": 38.50, "duration": 9.90}
+  ],
+  "subtitles": "master.srt",
+  "total_duration_s": 48.40
+}
